@@ -1,0 +1,3164 @@
+{
+    "professor": "Bárbara Montelli",
+    "componente": "Arte",
+    "turmas": {
+        "41": [
+            {
+                "nome_estudante": "ANA CLARA DE ALMEIDA DA FONSECA",
+                "nota_1": 10.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 3.33,
+                "recuperacao": 0.0,
+                "media_recuperada": 3.33
+            },
+            {
+                "nome_estudante": "ANTHONY TURELLA MARCIANO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ANTONIA MARQUES KIPPER",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ARTHUR HARRAS MEDEIROS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BENHUR AIRES DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO CAMARGO LIGABUE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI MONTEVERDE DA ROCHA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI PASTRO FROTA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO CARDOSO MACHADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO TAVARES CAMARGO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HELENA BRAESKE PULLA TOSSEDO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELLA DE MORAES CARVALHO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISADORA DA FONSECA BECKER",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISIS BHEATRIZ DA SILVA ARAUJO RODRIGUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JOAQUIM MIGUEL RODRIGUES MOREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KEVEN ALEX CARDOSO CONDE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KRISTEN RODRIGUES TESCH",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUISA DA SILVA MANSILHA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARCO CASTRO MARTELETTO OLIVEIRA CARVALHO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA EDUARDA DA SILVA MARTINS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIGUEL TRINDADE FRANCO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "NICOLAS CAVALHEIRO SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAFAEL DA CUNHA PUHL",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RENAN BERNARDO DE CASTRO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VALENTINA DE LEMES OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "42": [
+            {
+                "nome_estudante": "ALINE CEZIMBRA VIEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "AMANDA SILVEIRA LOPES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "AURORA FONTANA BARCELOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "AYSHA KUHN RODRIGUES DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BENICIO SILVEIRA GUIMARÃES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO MACHADO VIANA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL DA SILVA PETIZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JADE AMARAL RIBEIRO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JAMYLLY HELENA DOS SANTOS PEREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JONATHAN FELIPE GOULART RIBEIRO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KAINÃ LIMA DA COSTA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAUREN RAYSSA DO CANTO SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LIVIA DA ROSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LORENZO SANTOS VENTURA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUCCA ESPINDOLA SCHNEIDER",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUIZ FERNANDO DOS SANTOS DE ALMADA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUIZ MIGUEL CARDOSO FERNANDES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARYA VICTORIA DE LIMA ALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MAYRA YANNA TOMAZ DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIKAELA HENZ DE MATOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "NURIA HELENA FONTANA BARCELOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "OTAVIO DOS SANTOS SOARES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PIETRA GUIMARÃES BRAGA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ROGERIO JUNIOR SALVADOR BUENO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SOPHIA ISABELLY DA SILVA SODRE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "43": [
+            {
+                "nome_estudante": "ARTHUR EDMILSON SANTANA COLOMBo",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "AURORA DE OLIVEIRA TAVARES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BEATRICE SILVA CARDOZO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BENÍCIO DA SILVA SCHNECHEL",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DARA ARGACHA GAMA CASTRO RIBEIRO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EMANUELLY MONTEIRO DE LIMA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EMILYN GUEDES XAVIER",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "FRANCISCO DA CONCEIÇÃO SOUZA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GEOVANA GUEDES MACHADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HECTOR DA ROSA RAUBUSTT",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELLY VITÓRIA ROCHA PORTO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JULIANO KINDLEIN ABEL",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KAUAN SCHAPPO RODRIGUES REIS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAVINNYA GRAZIELLE DA SILVA OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MAICKY RAFAEL ALVES DA VEIGA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA CLARA DA SILVA COLARES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA LUIZA RODRIGUES RIBEIRO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIGUEL VIEIRA RODRIGUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PEDRO FELICIO FERREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PEDRO VACCARO PINTO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PIETRO DA ROCHA BERNARDES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RICHARD HUGO SELINGER",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SAMUEL JARDIM DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VICENZO PEDROSO GAVIÃO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "YAGO MARTINS DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "44": [
+            {
+                "nome_estudante": "ALICE BITTENCOURT E SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ANA JULIA REIS DA COSTA PIRES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "AUGUSTO SOLARO MAGNUS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BEATRIZ RODRIGUES PINTO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DANILO DA ROSA AGUIAR VAZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI LUIZ SOARES SILVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO HENRIQUE FERREIRA LUCAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL JARDIM DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GUILHERME CUNHA DE FREITAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HUGO JOSÉ PONTES PAIM",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELLA VASCONCELOS LOPES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISADORA AQUINO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JOÃO VITOR FELÍCIO FERREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JÚLIA ISABELLY SANTOS DE SOUZA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAVINIA EDUARDA SOUZA DUTRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LEONARDO BATISTA DA CUNHA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LIVIA BRUGNERA DEVOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUCCA MACHADO REIS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA LUIZA BAUM DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA VITORIA BRITO LIMA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIANE DA SILVA CAVALCANTE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIGUEL SILVA CARRION",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "NAYARA ESPERANÇA DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PEDRO GABRIEL HOVEMAMANN VARGAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PIETRA DE SOUZA MOREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VÍTOR NATHAN SILVA DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "WESLEY PEREIRA CARVALHO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "51": [
+            {
+                "nome_estudante": "DANIELE GOULART RIBEIRO DA SILVA",
+                "nota_1": 5.0,
+                "nota_2": 6.0,
+                "nota_3": 6.0,
+                "media_final": 5.67,
+                "recuperacao": 8.0,
+                "media_recuperada": 6.83
+            },
+            {
+                "nome_estudante": "DAVI LUCAS MACHADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EMERSON CAIO ESTEVES DE QUADROS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO BERNARDO DA SILVA GUINGUER",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO GABRIEL RODRIGUES OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO GABRIEL SCHESSOFF DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO MARTINS OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ESTER DA SILVA PACHECO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "FELIPE DOS SANTOS VITT",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL DE SOUZA DUARTE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIELLY VITHORIA DOS SANTOS AZEREDO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRYELL SOUZA DE VARGAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GLEDERSON THOR SILVA SILVEIRA DO PRADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HELENA MELO SCHMIDT",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELA BERNARDO BETTIO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KAIO DIAS ORGUIM",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LARISSA MACIEL DE MOURA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAUREN SCARANTO GARCIA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LEOMAR DE OLIVEIRA JAQUES ALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LÍVIA CARDOSO DE LEMOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA CLARA CARVALHO RIBEIRO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA CLARA ROCHA GONÇALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIGUEL CORREA DE OLIVEIRA INOCENTE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "NICOLAS SERAFIM WERNZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SAMUEL RODRIGUES DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "THOMAS HASHIMOTO COSTA PRUMUCENA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VÁGNER MARCELO OLIVEIRA SILVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VALENTINA DE FIGUEIRÓ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "YSABELLE BALEJO RODRIGUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "52": [
+            {
+                "nome_estudante": "ALEJANDRO VIRGILE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ALICE SOARES DA FONTOURA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ANTONIO LUCAS BOSIO DE SOUSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BENJAMIN LOPES LEÃO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO STRADOLINI PONCIA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO THALES MÜLLER PEREZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "CECILIA NASCIMENTO RIPINSKI",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "FRANCISCO CABALHEIRO LEITES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HEITOR FLORES SANT'ANA FERNANDES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELA FERRAZ CARVALHO PRATO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISAIAS LUCIO MENDES ARISTIMUNHO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISMAEL FERREIRA GUTERREZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAURA NUBLING FEITOSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAURA PRUSCH VIEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LEONARDO FONTOURA DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUIZA MACHADO SANHUDO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA ANTONIA WINCK MARTINS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA EDUARDA IZEPPI DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARINA RONCATTO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MATHEUS PONTES PINTO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MEL QUEVEDO DE FREITAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIGUEL ESTEGA DA ROSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MURILLO FERREIRA DOS SANTOS MORAIS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "NATHAN PERLA COLCHETE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "NICOLAS CAMARGO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PEDRO FAGUNDES PEREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PEDRO HENRIQUE DA SILVA DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAÍSSA MANUELLA BARBOSA DA FONSECA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "53": [
+            {
+                "nome_estudante": "ARTHUR GODOY DE DEUS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "AURORA VALENCIO ALMEIDA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BENHUR TONAIZER PEREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO DA SILVA OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BRAYAN HOVEMANN FRAGA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "CARLOS EDUARDO CARDOSO PEREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI FERREIRA AMARAL",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI LUCAS DA SILVA DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI LUIZ FERREIRA BALDEZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EDUARDA MARIE LIMA RIGOBELLO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EDUARDO AVILA DA SILVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ENZO CARDOZO PEREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL CUNHA DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL MARONEZ MENEZES DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GIULLIA SOARES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HELENA NOCHANG STEFFANELLO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISIS LAYANNE PERES ALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISIS VIEGAS AZAMBUJA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KAUA VARGAS GODINHO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAURA MARCANSONI DA CUNHA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LILIANA CRISTOFARI PAIM",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LORENZO DOS SANTOS PEREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUÍSA DE MELO PIVETTA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIANO FREITAS PINTO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PIETRO LUIZ FRANCINES GOMES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RYKELMY SANTOS GONÇALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "TALITA CARVALHO BRITO DA ROSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "THOMAZ BARCELLOS FERREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "61": [
+            {
+                "nome_estudante": "ANTONIA DE MORAES CARVALHO",
+                "nota_1": 4.0,
+                "nota_2": 5.0,
+                "nota_3": 3.0,
+                "media_final": 4.0,
+                "recuperacao": 10.0,
+                "media_recuperada": 7.0
+            },
+            {
+                "nome_estudante": "ARTHUR FONTES DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ARTHUR SILVEIRA VIANNA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "AUGUSTO LOPES KASPER",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI DOS SANTOS SOARES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI LUCCA DA SILVA DOS ANJOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI LUIZ FAGUNDES OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DIEGO CARVALHO DA CUNHA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DOMINIC FARIAS BIDART",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "FELIPE RODRIGUES DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GIANLUCCA CAMPANA DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GIOVANA DA CUNHA FARIAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HENRI ANTONY VARGAS DE ANDRADES FLORES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HENRY KAUÃ SOUZA SOARES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELLA BEATRIZ DA ROSA FREITAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JOSHUA LUÍS ROCHA FOGAÇA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KAUANE PEREIRA DE JESUS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KLARA VIER SOUZA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAURA MARIA BRUM FARIAS ROSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUAN CORTES DA ROSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MANUELA DE ALENCASTRO ANTUNES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIAH DA ROSA ALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MILENA VITORIA SOARES DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PEDRO HENRIQUE VIEIRA FRAGA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RICHARD DE OLIVEIRA SPINDOLA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SHERON ISABELLY MUNHOZ DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VIOLETA MORAES LOPES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VITÓRIA SOUZA DE VARGAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "62": [
+            {
+                "nome_estudante": "AGATHA SOARES DE AGUIAR",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ALLANA TRINDADE DIAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ARTHUR VIEIRA HEXSEL",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO BARBOSA FORTES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "CECILIA KNAK NUNES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "CECÍLIA LOPES DOS REIS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI BRANDO MENEZES DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI LUCA FAVERO DE MORAIS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIELA COIMBRA DUTRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GISELE CARDOSO DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELA FRAGA NUNES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JOANA STAIL ROUX LEITE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KAUA CASSER DA SILVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAURA AVENNA COSTA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LEONARDO SANTOS PORTALUPPI",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LORENZO FLORES DOMINGOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LORENZO WOBETO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUÍZA DA SILVA DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA CLARA SOARES DE MOURA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIANA PHAELANTE ENGRAZIA VARANTE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MICHEL ARENA OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIGUEL ZITZMANN DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAFAELA GUERREIRO DE SOUZA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SARA VARGAS LIMA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SARAH MENEZES FONSECA RAMOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "TCHERRI LUCAS OZORIO VARGAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "THALES GAEL NUNES SOARES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "THAYLOR GUSTAVO DA SILVA FERREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "63": [
+            {
+                "nome_estudante": "AMANDA LIMA TONON",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ANA LUIZA FAGUNDES BONEBERG",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ARIANI CEZIMBRA VIEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO SANTOS DA ROCHA DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAFNI RAFAELA DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ELISE SILVEIRA MORAIS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "FELIPE FEIJÓ RODRIGUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL FRANCO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "HENDREW MACHADO CARDOSO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAIS ANTONIA MENDES SANTOS DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAYZ PEREIRA DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA EDUARDA NASSER MACHADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARINA NOIMANN TUBÉLO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MATHEUS RIBEIRO PAIM",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIKAEL DA SILVA MARQUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MURYLLO POMPEU COSTA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PEDRO RODRIGUES DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAFAEL FAGUNDES RODRIGUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAFAELLA VIEIRA BUENO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SOPHIA DE FREITAS SIMÕES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SOPHIA LEITE DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VALDEMAR RENAN MORETTO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VALENTINA LOPES CRISTOFARI",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ZION HEDLER LOPES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "64": [
+            {
+                "nome_estudante": "ALICY MENDONÇA BALDEZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ARTHUR PERTILLE DA SILVA FELIX",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BEATRIZ CARVALHO DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO ALECXANDRO VITTOLA DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "CALEBE CHAGAS PINHEIRO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DAVI SEFFER CEVEI",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DÉBORA GASS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DENNER SANTOS DE SOUZA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DOUGLAS DE SOUZA SANT ANNA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EDUARDA DA ROSA RODRIGUES DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL FRANCISCO DA CUNHA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL ORTIZ ALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GUILHERME ROSA DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KELWIN GABRIEL DOS SANTOS LEMOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JÚLIA TOMEZACH BASSUALDO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAIS ANTONIA MENDES SANTOS DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LEONARDO BANDEIRA BARRETO MACHADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LEONARDO REMY GONÇALVES REINEHR",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LORHANY VICTÓRIA TOMAZ DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUIZ OTÁVIO OLIVEIRA DE FRAGA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MANUELA FERRAZ PHILIPI",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA EDUARDA MACHADO RIBEIRO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARTINA SANTOS MACHADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAY LUCAS SILVA VIEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RENAN XAVIER BARBOSA DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RENATO BRUGNERA GULARTE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RIQUELME DE SOUZA DA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SOFIA COSTA DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VALENTINA MOSCARDINI OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "65": [
+            {
+                "nome_estudante": "ALYSSA BASSEDONE NASCIMENTO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO VIEIRA BARBOSA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "CLARA BONINI RUAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "DJULIANE RAQUEL BITTENCOURT GONÇALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EMANUELLY DE SOUZA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ERICK ANTONIO FONSECA DIDIO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIEL FERREIRA GONÇALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIELA CARDOSO RODRIGUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GUILHERME JOAQUIM BALZANI",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABELLA BECKER GONÇALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JAIR MIGUEL SANTOS DE LIMA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JOÃO GABRIEL MACHADO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "JOÃO VICTOR OLIVEIRA ESCOBAR",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAURA NUNES BILHALVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAVÍNIA HANSEN DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAZARO CRISTIANO SIAS PETRY",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LEONARDO BRASIL LACERDA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUDMILA LOUISE RODRIGUES BOBSIN",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUIZ EDUARDO LAURENCIO DUARTE",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MÁRCIO JÚNIOR WILLRICH",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MATHEUS SILVA CARDOSO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "OLÍVIA ROCHA DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SOPHIA DA SILVA MAIA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "VALENTINA YASMIN RAMOS DE CARVALHO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ],
+        "71": [
+            {
+                "nome_estudante": "ALICE ROSA DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ALISSON PEREIRA DOS SANTOS GONÇALVES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ANA CAROLINA GOMES LEÃO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ARTHUR BARRY VICHARA CARDOZO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BERNARDO CARVALHO DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "BRUNA DA ROSA SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EMILY DOS SANTOS BORGES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EVELIN MADRIL DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "EVELLYN PRINCEIS DOS SANTOS LIMA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "GABRIELLY MARTINS SILVA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "ISABEL FLORES DA LUZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "KEYTSOM BELVIQUE FERREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LAUREN OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUCAS MACHADO ARAUJO",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "LUIZA SCHARDOSIM FERREIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MANUELA NUNES DOS SANTOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARCELO RAFAEL DA ROSA DE FREITAS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MARIA ELOISA BORGES DE OLIVEIRA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MATHEUS GARCIA PASSOS",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MIGUEL PEPE SEGABINAZZI",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "MURILO MASSI DE SOUZA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "NATALY VITÓRIA ALVES DA VEIGA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "PALOMA GROHS LUMMERTZ",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAFAELA ROSCHILDT ASTIAZARA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RAYANE DE FREITAS GUIMARAES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "RYHANNA DE LIMA RODRIGUES",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "SUELLEN BRANGEL DE SOUZA LIMA",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            },
+            {
+                "nome_estudante": "WILLIAM PAIM POHLMANN",
+                "nota_1": 0.0,
+                "nota_2": 0.0,
+                "nota_3": 0.0,
+                "media_final": 0.0,
+                "recuperacao": 0.0,
+                "media_recuperada": 0.0
+            }
+        ]
+    }
+}
