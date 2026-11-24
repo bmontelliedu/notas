@@ -149,6 +149,20 @@ st.markdown(
             size: A4 portrait;
             margin: 6mm;
         }
+
+        .stApp [data-testid="stVerticalBlock"],
+        .stApp [data-testid="stHorizontalBlock"],
+        .stApp [data-testid="stElementContainer"],
+        .stApp .element-container {
+            gap: 0 !important;
+            margin-top: 0 !important;
+            margin-bottom: 0 !important;
+            padding-top: 0 !important;
+            padding-bottom: 0 !important;
+            min-height: 0 !important;
+        }
+
+        
         [data-testid="stDataEditor"],
         [data-testid="stDataFrame"],
         .stDataEditor,
@@ -158,6 +172,9 @@ st.markdown(
             visibility: hidden !important;
             height: 0 !important;
             overflow: hidden !important;
+            min-height: 0 !important;
+            margin: 0 !important;
+            padding: 0 !important;
         }
 
         [data-testid="stSidebar"],
@@ -169,6 +186,10 @@ st.markdown(
         iframe,
         [data-testid="stDataEditor"] {
             display: none !important;
+            height: 0 !important;
+            min-height: 0 !important;
+            margin: 0 !important;
+            padding: 0 !important;
         }
 
         .stMainBlockContainer,
@@ -196,7 +217,7 @@ st.markdown(
         .tabela-impressao {
             display: block !important;
             width: 100% !important;
-            margin-top: 6px !important;
+            margin-top: 0px !important;
         }
 
         .tabela-impressao table {
