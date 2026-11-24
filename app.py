@@ -159,14 +159,7 @@ st.markdown(
             min-height: 0 !important;
             margin: 0 !important;
             padding: 0 !important;
-        }
-
-        /* Cola a tabela logo abaixo do cabeçalho/campos */
-        .tabela-impressao {
-            display: block !important;
-            width: 100% !important;
-            margin-top: 6px !important;
-        }
+        }      
         
        [data-testid="stSidebar"],
         .stButton,
@@ -181,7 +174,17 @@ st.markdown(
             margin: 0 !important;
             padding: 0 !important;
         }
-
+        
+        [data-testid="stSidebar"],
+    [data-testid="stButton"],
+    [data-testid="stElementContainer"]:has(iframe),
+    [data-testid="stElementContainer"]:has([data-testid="stDataEditor"]),
+    .stMarkdown:has(.tabela-impressao) ~ div {
+        display: none !important;
+        height: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
         .stMainBlockContainer,
         .block-container,
         [data-testid="stAppViewContainer"] {
