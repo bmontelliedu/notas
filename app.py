@@ -124,7 +124,7 @@ st.markdown(
 
     .anisio {
         font-size: 32px !important;
-        margin: 0px !important;
+        margin-bottom: 30px !important;
         padding: 0px !important;
     }
     .expressao {
