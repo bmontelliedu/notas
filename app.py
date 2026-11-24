@@ -149,42 +149,32 @@ st.markdown(
             size: A4 portrait;
             margin: 6mm;
         }
-
-        .stApp [data-testid="stVerticalBlock"],
-        .stApp [data-testid="stHorizontalBlock"],
-        .stApp [data-testid="stElementContainer"],
-        .stApp .element-container {
-            gap: 0 !important;
-            margin-top: 0 !important;
-            margin-bottom: 0 !important;
-            padding-top: 0 !important;
-            padding-bottom: 0 !important;
-            min-height: 0 !important;
-        }
-
-        
+        /* Garante que o bloco oculto do editor não deixe altura vazia */
         [data-testid="stDataEditor"],
         [data-testid="stDataFrame"],
         .stDataEditor,
-        .stDataFrame,
-        .dvn-scroller {
+        .stDataFrame {
             display: none !important;
-            visibility: hidden !important;
             height: 0 !important;
-            overflow: hidden !important;
             min-height: 0 !important;
             margin: 0 !important;
             padding: 0 !important;
         }
 
-        [data-testid="stSidebar"],
+        /* Cola a tabela logo abaixo do cabeçalho/campos */
+        .tabela-impressao {
+            display: block !important;
+            width: 100% !important;
+            margin-top: 6px !important;
+        }
+        
+       [data-testid="stSidebar"],
         .stButton,
         .stInfo,
         [data-testid="stDivider"],
         hr,
         label,
-        iframe,
-        [data-testid="stDataEditor"] {
+        iframe {
             display: none !important;
             height: 0 !important;
             min-height: 0 !important;
