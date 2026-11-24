@@ -193,15 +193,11 @@ st.markdown(
 
         .anisio {
             font-size: 18px !important;
-            margin: 0 !important;
-            page-break-after: avoid !important;
-            break-after: avoid !important;
+            margin-bottom: 30px !important;
         }
         .expressao {
             font-size: 12px !important;
             margin: 0 !important;
-            page-break-after: avoid !important;
-            break-after: avoid !important;
         }
 
         .tabela-impressao {
