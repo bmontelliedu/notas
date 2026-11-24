@@ -192,6 +192,7 @@ st.markdown(
             width: 100% !important;
             padding: 0 !important;
             margin: 0 !important;
+            height: 0 !important;
         }
 
         .anisio {
